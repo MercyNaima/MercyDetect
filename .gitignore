@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter/IDE
+.ipynb_checkpoints/
+.vscode/
+
+# 学習済みモデル・中間データ
+*.npy
+*.h5
+*.keras
+*.json
+*.png
+
+# ローカルフォルダ
+data/
+dataset/
+models/
+results/
+
+# システムファイル
+.DS_Store
+Thumbs.db
