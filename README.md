@@ -100,7 +100,7 @@ python visualize.py
 
 ## ✍️ 開発者・出典
 
-本研究は、呉錦曄が卒業研究の一環として開発したものであり、[DeepEYE](https://github.com/MathGeniusMan/DeepEYE)プロジェクトをベースに構築されています。
+本研究は、卒業研究の一環として開発したものであり、[DeepEYE](https://github.com/MathGeniusMan/DeepEYE)プロジェクトをベースに構築されています。
 
 ---
 
